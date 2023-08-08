@@ -1,5 +1,13 @@
-theme: minima
+title: Using github pages -- simple sample
+email: patrick.megard@fr.ibm.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a simple githubpages example generated using Jekyll. Just for fun
+  
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 header_pages:
   - about.md
